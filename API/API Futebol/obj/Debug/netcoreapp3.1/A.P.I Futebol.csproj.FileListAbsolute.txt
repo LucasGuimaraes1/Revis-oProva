@@ -1,0 +1,20 @@
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\obj\Debug\netcoreapp3.1\A.P.I Futebol.csprojAssemblyReference.cache
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\obj\Debug\netcoreapp3.1\A.P.I Futebol.AssemblyInfoInputs.cache
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\obj\Debug\netcoreapp3.1\A.P.I Futebol.AssemblyInfo.cs
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\obj\Debug\netcoreapp3.1\A.P.I Futebol.csproj.CoreCompileInputs.cache
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\obj\Debug\netcoreapp3.1\A.P.I Futebol.MvcApplicationPartsAssemblyInfo.cache
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\bin\Debug\netcoreapp3.1\appsettings.json
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\bin\Debug\netcoreapp3.1\A.P.I Futebol.exe
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\bin\Debug\netcoreapp3.1\A.P.I Futebol.deps.json
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\bin\Debug\netcoreapp3.1\A.P.I Futebol.runtimeconfig.json
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\bin\Debug\netcoreapp3.1\A.P.I Futebol.runtimeconfig.dev.json
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\bin\Debug\netcoreapp3.1\A.P.I Futebol.dll
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\bin\Debug\netcoreapp3.1\A.P.I Futebol.pdb
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\obj\Debug\netcoreapp3.1\A.P.I Futebol.RazorTargetAssemblyInfo.cache
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\obj\Debug\netcoreapp3.1\staticwebassets\A.P.I Futebol.StaticWebAssets.Manifest.cache
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\obj\Debug\netcoreapp3.1\staticwebassets\A.P.I Futebol.StaticWebAssets.xml
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\obj\Debug\netcoreapp3.1\A.P.I Futebol.dll
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\obj\Debug\netcoreapp3.1\A.P.I Futebol.pdb
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\A.P.I Futebol\obj\Debug\netcoreapp3.1\A.P.I Futebol.genruntimeconfig.cache
